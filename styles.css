@@ -10,5 +10,7 @@ body{
 	color:#777777;
 }
 .Price-block{
-	color:#2ecc71;
+	color:white;
+	background-color:rgb(46, 204, 113);
+	border-radius:10px;
 }
