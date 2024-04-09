@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#f8f8f8;
+	background-color:rgb(46, 204, 113);
 }
 
 .book-library{
-	background-color:rgb(46, 204, 113);
+	background-color:#ffffff;
 }
 .Auther{
-	color:rgb(46, 204, 113);
+	color:#777777;
 }
 .Price-block{
-	color:rgb(46, 204, 113);
+	color:#2ecc71;
 	background-color:rgb(46, 204, 113);
 	border-radius:10px;
 }
